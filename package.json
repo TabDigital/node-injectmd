@@ -38,6 +38,6 @@
     "bin/*"
   ],
   "bin": {
-    "node-injectmd": "./bin/cli.js"
+    "injectmd": "./bin/cli.js"
   }
 }
